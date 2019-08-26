@@ -1,0 +1,2 @@
+# todolist-react-js
+I made a website which has a form that consist date, title and activity. When I submit the form, value input will display under it into table tag. The table have four headers such as date, title, activity and action. The action's header have two buttons, they are edit button and delete button. Edit button means the value that submitted can be change as you want and anytime. While delete button means to remove the row's value of table. Before delete, I put the confirm window to make sure the user want to delete or not.
